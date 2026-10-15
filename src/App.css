@@ -1,0 +1,28 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #131722;
+  color: #d1d4dc;
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  min-height: 100vh;
+}
+
+.topbar {
+  height: 56px;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #2a2e39;
+}
+
+.chart-page {
+  padding: 12px;
+}
